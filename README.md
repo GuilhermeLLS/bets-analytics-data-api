@@ -5,6 +5,6 @@ There is only one route
 GET /...
 
 ## to run
-`npm i`
+`yarn`
 then
-`npm  run ....`
+`yarn dev`
